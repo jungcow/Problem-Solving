@@ -2,11 +2,6 @@
 
 #include "bits/stdc++.h"
 
-// set
-// string
-// queue<string>
-// algorithm - swap
-
 using namespace std;
 
 queue<pair<string, int> > Box;

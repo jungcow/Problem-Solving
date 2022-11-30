@@ -13,7 +13,6 @@ vector<bool> Answer;
 
 int N;
 
-
 void prologue(void)
 {
 	cin.tie(NULL);
